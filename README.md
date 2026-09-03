@@ -6,7 +6,7 @@
 
 Hi! My name is Felipe Salles, I'm a student at UPM Universidade Presbiteriana Mackenzie in São Paulo, Brazil 🇧🇷
 
-Currently majoring CS! 🖥️
+Currently majoring in CS! 🖥️
 
 </td>
 
