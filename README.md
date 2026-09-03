@@ -1,4 +1,8 @@
-<h1># Welcome! 👋 <img align="right" width="200" alt="Mimikyu" src="https://github.com/user-attachments/assets/b998f1df-b8d4-4c95-932a-45210beb3468" /></h1>
+<img width="207" height="228" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/ae6d2921-504b-4b5d-b6ec-3ed82b208774" />
+
+
+
+# Welcome! 👋
 
 Hi! My name is Felipe Salles, I'm a student at UPM Universidade Presbiteriana Mackenzie in São Paulo, Brazil 🇧🇷
 
