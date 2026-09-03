@@ -25,7 +25,7 @@ Currently majoring in CS! 🖥️
 **List of interests:**
 
 * DevOps & SecOps 🔒
-* Linux tinkerer (currently using Arch btw) 🐧
+* Linux tinkerer (currently using NixOS btw) 🐧
 * Learning languages as a hobby (currently learning japanese & german) 🗣️
 * Anime & games 🎮
 
@@ -35,4 +35,4 @@ Currently majoring in CS! 🖥️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![NixOS](https://img.shields.io/badge/self--hosted-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
