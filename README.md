@@ -1,15 +1,22 @@
-<img align="right"
-     width="207"
-     alt="Mimikyu"
-     src="https://github.com/user-attachments/assets/ae6d2921-504b-4b5d-b6ec-3ed82b208774"
-     style="margin-top: -30px;" />
+<table>
+<tr>
+<td valign="bottom">
 
-
-<h1 style="margin-top: 40px;"># Welcome! 👋</h1>
+<h1>Welcome! 👋</h1>
 
 Hi! My name is Felipe Salles, I'm a student at UPM Universidade Presbiteriana Mackenzie in São Paulo, Brazil 🇧🇷
 
 Currently taking the CS course! 🖥️
+
+</td>
+
+<td valign="top">
+
+<img width="207" alt="Mimikyu" src="https://github.com/user-attachments/assets/ae6d2921-504b-4b5d-b6ec-3ed82b208774" />
+
+</td>
+</tr>
+</table>
 
 ## Get to know me... 👀
 
